@@ -9,4 +9,5 @@ public class User {
 
     public static String name;
     private String password;
+    private String hobby;
 }
