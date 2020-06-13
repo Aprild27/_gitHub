@@ -6,4 +6,6 @@ package com.qfedu;
  * @Description ：
  */
 public class User {
+
+    public static String name;
 }
