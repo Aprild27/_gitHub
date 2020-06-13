@@ -8,4 +8,5 @@ package com.qfedu;
 public class User {
 
     public static String name;
+    private String password;
 }
